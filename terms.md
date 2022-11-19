@@ -59,7 +59,7 @@ We strongly advise You to read the terms and conditions and privacy policies of 
 
 We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
 
-Upon termination, Your right to use the Service will cease immediately.
+Upon termination, Your right to use the Bot will cease immediately.
 
 
 
@@ -72,7 +72,7 @@ Some jurisdictions do not allow the exclusion of certain types of warranties or 
 
 # Governing Law
 
-The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Bot may also be subject to other local, state, national, or international laws.
+The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Bot. Your use of the Bot may also be subject to other local, state, national, or international laws.
 
 # Disputes Resolution
 
