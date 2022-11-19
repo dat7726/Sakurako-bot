@@ -102,3 +102,4 @@ If you have any questions about these Terms and Conditions, You can contact us:
 
 
 - By email: sakurako.discord.bot@gmail.com
+- Discord: [Support server](https://discord.gg/kdKH6n66Qg)
