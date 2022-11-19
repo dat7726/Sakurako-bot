@@ -13,11 +13,11 @@ The words of which the initial letter is capitalized have meanings defined under
 ## Definitions
 
 For the purposes of these Terms and Conditions:
-
-- __Bot__ means the Discord bot provided by [@dat7726](https://github.com/dat7726) added by You on any electronic device, named Sakurako (Discord tag `Sakurako#3767`, Discord ID : `898507743508430878`)
+- __We__ : Sakurako developers
+- __Bot__ means the Discord bot provided by us added by You on any electronic device, named Sakurako (Discord tag `Sakurako#3767`, Discord ID : `898507743508430878`)
 - __Country__ refers to:  Vietnam
 - __Device__ means any device that can access the Service such as a computer, a cellphone or a digital tablet.
-- __We__ : Sakurako developers
+
 
 
 - __Terms and Conditions__ (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and us regarding the use of the Bot. This Terms and Conditions agreement has been created with the help of the [TermsFeed Terms and Conditions Generator](https://www.termsfeed.com/terms-conditions-generator/).
